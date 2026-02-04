@@ -1,22 +1,22 @@
 <!-- Header with animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DC&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+V2309+👋;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DC&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+VanAn+👋;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=V2309&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HuynhVanAn&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Student/Developer** passionate about technology  
-💼 Specializing in: **Web Development | Mobile App | AI/ML**  
-🌱 Currently learning: **React, Node.js, Python**  
+🎓 **Developer** passionate about technology  
+💼 Specializing in: **Web Development | AI/ML**  
+🌱 Languages: **React, Next.js, Node.js, Python, Angular, Vue.js**  
 🎯 2026 Goals: Contribute more to open-source  
-📫 Contact: **your.email@gmail.com**
+📫 Contact: **hvanan1608@gmail.com**
 
 ---
 
@@ -50,10 +50,6 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V2309&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V2309&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <!-- GitHub Streak -->
 <div align="center">
@@ -79,11 +75,9 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=V2309&repo=V2309&theme=tokyonight)](https://github.com/V2309/V2309)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=V2309&repo=school_project&theme=tokyonight)](https://github.com/V2309/school_project)
 
 </div>
-
-> 💡 **Add your other repos here by changing the `repo=` parameter**
 
 ---
 
@@ -122,24 +116,6 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] 500+ commits contribution
-- [ ] Create 5 open-source projects
-- [ ] Learn 3 new technologies
-- [ ] Write 20 technical blog posts
-- [ ] Achieve 1000 GitHub stars
-
----
-
-## 📝 Blog & Articles
-
-- [Article 1: React Guide for Beginners](#)
-- [Article 2: Optimizing Node.js Performance](#)
-- [Article 3: Design Patterns in JavaScript](#)
-
----
-
 ## 🎨 Fun Facts
 
 ```javascript
@@ -162,13 +138,6 @@ const V2309 = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/V2309/V2309/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
