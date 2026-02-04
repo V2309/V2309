@@ -14,7 +14,7 @@
 
 🎓 **Developer** passionate about technology  
 💼 Specializing in: **Web Development | AI/ML**  
-🌱 Languages: **React, Next.js, Node.js, Python, Angular, Vue.js**  
+🌱 Technologies: **React, Next.js, Node.js, Python, Angular, Vue.js**  
 🎯 2026 Goals: Contribute more to open-source  
 📫 Contact: **hvanan1608@gmail.com**
 
@@ -32,10 +32,14 @@
 
 <!-- Frameworks & Libraries -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
 </p>
 
 <!-- Tools -->
@@ -72,14 +76,13 @@
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=V2309&repo=school_project&theme=tokyonight)](https://github.com/V2309/school_project)
+
+**🏫 Online Classroom Management System**  
+A comprehensive full-stack web application for managing classroom activities, student information, and educational workflows.
 
 </div>
-
----
 
 ## 📫 Connect with Me
 
@@ -96,13 +99,13 @@
 ## 💼 Experience & Personal Projects
 
 ### 🔥 Completed Projects
-- 📱 **Task Management App** - React Native + Firebase
-- 🌐 **E-commerce Website** - MERN Stack
-- 🤖 **AI Chatbot** - Python + NLP
-- 📊 **Data Analytics Dashboard** - React + D3.js
+- 🏫 **School Management System** - [GitHub](https://github.com/V2309/school_project) - Full-stack web application
+- 🧠 **Brain Tumor Detection** - [GitHub](https://github.com/V2309/Brain-Tumor-Detection) - AI/ML Project using Python
+- ⚡ **Angular Projects** - [GitHub](https://github.com/V2309/AngularProjects) - Modern web applications with Angular
+- 🌐 **PHP Laravel Application** - [GitHub](https://github.com/V2309/PHP_LARAVEL) - Backend development with Laravel
 
 ### 📄 CV & Portfolio
-📎 [Download My CV](link-to-your-cv.pdf)  
+📎 [Download My CV](https://drive.google.com/file/d/1q5zPOZgkac3Hp5nR97jH3iiCICPxswKJ/view?usp=sharing)  
 🌐 [View Portfolio](https://your-portfolio-link.com)
 
 ---
