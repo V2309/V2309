@@ -14,7 +14,7 @@
 
 🎓 **Developer** passionate about technology  
 💼 Specializing in: **Web Development | AI/ML**  
-🌱 Technologies: **React, Next.js, Node.js, Python, Angular, Vue.js**  
+🌱 Technologies: **React, Next.js, Node.js, NestJS, Python, Angular, Vue.js**  
 🎯 2026 Goals: Contribute more to open-source  
 📫 Contact: **hvanan1608@gmail.com**
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -126,7 +127,7 @@ const V2309 = {
   code: ["JavaScript", "Python", "Java", "TypeScript"],
   technologies: {
     frontEnd: ["React", "Vue", "Next.js"],
-    backEnd: ["Node.js", "Express", "Django"],
+    backEnd: ["Node.js", "NestJS", "Express", "Django"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
     devOps: ["Docker", "AWS", "GitHub Actions"],
   },
